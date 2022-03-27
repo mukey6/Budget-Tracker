@@ -8,6 +8,7 @@ Using Progressive Web Application, (PWA) this application was created to allow a
   - [Installation](#Installation)
   - [Usage](#Usage)
   - [Questions](#Questions)
+  - [Technology Used](#technologu-used)
 
 ## Installation
 The user can clone the repository from GitHub and install dependencies. To run server, run npm start.
@@ -15,6 +16,18 @@ The user can clone the repository from GitHub and install dependencies. To run s
 ## Usage 
 This application will allow users to create new transactions whether it's a deposit or withdraw, with or without internet connection. 
 View deployed application on [Heroku](https://muksbudgettracker.herokuapp.com/)
+
+## Technologu Used
+* HTML
+* Javascript
+* CSS
+* Node.js
+* MongoDB
+* Mongoose ORM
+* IndexedDB
+* MongoDB Atlas
+* Heroku
+
 
 ## Questions
 If you have any Questions, reach me at [Email](muk.ahmed13@gmail.com), [Github](https://github.com/)
